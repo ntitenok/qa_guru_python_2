@@ -8,6 +8,6 @@ def setup():
     browser.config.window_height = 1080
     print("Настроить разрешение браузера 1920 на 1080")
 
-    # yield
-    # browser.quit()
-    # print("Закрыть браузер")
+    yield
+    browser.quit()
+    print("Закрыть браузер")
