@@ -1,3 +1,3 @@
-# qa_guru_python_2
+# 2. Instruments
 
 Репозиторий QA-guru, второй урок
